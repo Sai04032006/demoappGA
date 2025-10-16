@@ -3,8 +3,8 @@ function App() {
     <>
       <div className="container">
         <div className="card">
-          <h1 className="name">Lokesh Reddy</h1>
-          <h2 className="info">2300033017 • CSE • HTR</h2>
+          <h1 className="name">Lokesh Reddy P</h1>
+          <h2 className="info">2300033017 • CSE • HTE</h2>
         </div>
       </div>
 
